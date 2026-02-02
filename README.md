@@ -21,7 +21,21 @@ A modern, interactive customer support chat widget that simulates real-world hel
 
 ---
 
-## 🚀 Quick Start
+## � Screenshots
+
+### Homepage
+
+![Chatbot Interface]
+
+
+
+### Chat in Action
+
+![Chat Demo]
+
+---
+
+## �🚀 Quick Start
 
 ```bash
 # Clone the repository
@@ -97,6 +111,12 @@ graph LR
 
 ---
 
+## 👨‍💻 Author
+
+**Ankit Raj Jha**
+
+---
+
 <p align="center">
-  <i>JavaScript learning project</i>
+  <i>Built with ❤️ as a JavaScript learning project</i>
 </p>
