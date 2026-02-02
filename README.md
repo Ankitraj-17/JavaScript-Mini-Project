@@ -25,13 +25,13 @@ A modern, interactive customer support chat widget that simulates real-world hel
 
 ### Homepage
 
-![Chatbot Interface]
-
-
+Chatbot Interface
+![Website1](https://github.com/user-attachments/assets/3b7e14c7-777a-4495-9011-7dddbf886a4d)
 
 ### Chat in Action
 
-![Chat Demo]
+Chat Demo
+![website](https://github.com/user-attachments/assets/0355a1cd-9102-40e5-953f-9b0b94810040)
 
 ---
 
