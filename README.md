@@ -97,12 +97,6 @@ graph LR
 
 ---
 
-## 👨‍💻 Author
-
-**Ankit Raj Jha**
-
----
-
 <p align="center">
-  <i>Built with ❤️ as a JavaScript learning project</i>
+  <i>JavaScript learning project</i>
 </p>
